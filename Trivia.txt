@@ -1,0 +1,1 @@
+Debug/Trivia.cpp.o Debug/main.cpp.o
